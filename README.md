@@ -51,14 +51,3 @@ Esse projeto foi realizado em dupla para a disciplina de microcontroladores do I
  | P_V_FRENTE         | Percentual de velocidade frontal máxima        |
  | P_V_MIN         | Percentual da velocidade frontal mínima         |
  | P_T_ROTA_2         | Tempo para rotacionar ao detectar algum obstáculo lateral.        |
-
-
-# Modelo Lógico
-Para esse projeto, alguns modelos lógicos foram desenvolvidos a fim de simplificar e visualizar melhor as funcionalidades da aplicação:
-
- 
-
-
-
-
-
