@@ -15,7 +15,7 @@ Esse projeto foi realizado em dupla para a disciplina de microcontroladores do I
 
 - Ele possui dois modos, automático e manual, dos quais podem ser trocados utilizando uma chave no protoboard;
 - Ele possui dois sensores ultrassônicos e dois sensores de toque;
-- No modo autommático, ele se move para frente até que encontre um obstáculo, em seguida ativa a ré e ajusta a rota;
+- No modo automático, ele se move para frente até que encontre um obstáculo, em seguida ativa a ré e ajusta a rota;
 - No modo manual ele é controlado pelo celular utilizando o Gamepad do aplicativo Dabble
 
 
@@ -25,7 +25,7 @@ Esse projeto foi realizado em dupla para a disciplina de microcontroladores do I
 | -----------: |:------------:| -----:| ------:|
 |  SF         | Sensor Frontal  | Output/Input Digital | Parâmetro: 15-25cm |
 |  ST         | Sensor Traseiro  | Output/Input Digital | Parâmetro: 15-25cm |
-|  SLD         | Sensor Lateral Direito  | Input Digital | 0: Não ativao <br> 1: Ativado |
+|  SLD         | Sensor Lateral Direito  | Input Digital | 0: Não ativado <br> 1: Ativado |
 |  SLE         | Sensor Lateral Esquerdo  | Input Digital | 0: Não ativado <br> 1: Ativado |
 |  MTD         | Motor da roda direita (Frente)  | Output Digital | 0: Não ativado <br> 1: Ativado |
 |  MTE         | Motor da roda esquerda (Frente)  | Output Digital | 0: Não ativado <br> 1: Ativado |
