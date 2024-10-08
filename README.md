@@ -1,12 +1,12 @@
 # Cart
 A project of an automatic/manual cart with Esp32
 
-This project was made in pairs for Microcontroller discipline in College, and has some features:
+This project was made by two students for Microcontroller discipline in College, and has the following features:
 
-- He has two modes, Automatic and Manual, which are switched by a key in protoboard.
-- He has two ultrassonic sensors and two touch sensors
-- In Automatic mode, it moves foward until find an obstacule, then activate reverse and adjust the route
-- In Manual mode, it is controlled by cellphone using the Dabble Gamepad App
+It has two operation modes, Automatic mode and Manual mode, which can be switched using a key on the protoboard.
+It has two ultrasonic sensors and two touch sensors.
+On Automatic mode, it moves forward until it finds an obstacle, then it activates the reverse track and adjust its the route.
+On Manual mode, it can be controlled by a cellphone using an app called Dabble Gamepad.
 
 # Carrinho
 Projeto de um carrinho automático/manual utilizando a placa Esp32
